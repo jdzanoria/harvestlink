@@ -16,7 +16,7 @@ The current prototype uses `localStorage` instead of a backend API or database.
 - Farmer confirm/reject flow
 - Buyer request status history
 - Admin dashboard for users, products, requests, and reports placeholder
-- Responsive UI for desktop and mobile
+- Responsive UI for desktop and mobilessss
 
 ## Scripts
 
